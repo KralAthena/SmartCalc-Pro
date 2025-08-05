@@ -1,0 +1,111 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Gradient -->
+  <rect width="512" height="512" rx="120" fill="url(#bgGradient)"/>
+  
+  <!-- Calculator Body -->
+  <rect x="80" y="120" width="352" height="272" rx="32" fill="url(#calcGradient)" stroke="url(#borderGradient)" stroke-width="6"/>
+  
+  <!-- Display Screen -->
+  <rect x="100" y="140" width="312" height="60" rx="16" fill="url(#screenGradient)"/>
+  <rect x="112" y="152" width="288" height="36" rx="12" fill="#1a1a1a"/>
+  <text x="256" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#00ff88">123.45</text>
+  
+  <!-- Buttons Grid -->
+  <!-- Row 1 -->
+  <circle cx="120" cy="240" r="20" fill="url(#redGradient)"/>
+  <circle cx="180" cy="240" r="20" fill="url(#grayGradient)"/>
+  <circle cx="240" cy="240" r="20" fill="url(#grayGradient)"/>
+  <circle cx="300" cy="240" r="20" fill="url(#orangeGradient)"/>
+  
+  <!-- Row 2 -->
+  <circle cx="120" cy="300" r="20" fill="url(#grayGradient)"/>
+  <circle cx="180" cy="300" r="20" fill="url(#grayGradient)"/>
+  <circle cx="240" cy="300" r="20" fill="url(#grayGradient)"/>
+  <circle cx="300" cy="300" r="20" fill="url(#orangeGradient)"/>
+  
+  <!-- Row 3 -->
+  <circle cx="120" cy="360" r="20" fill="url(#grayGradient)"/>
+  <circle cx="180" cy="360" r="20" fill="url(#grayGradient)"/>
+  <circle cx="240" cy="360" r="20" fill="url(#grayGradient)"/>
+  <circle cx="300" cy="360" r="20" fill="url(#orangeGradient)"/>
+  
+  <!-- Row 4 -->
+  <circle cx="120" cy="420" r="20" fill="url(#grayGradient)"/>
+  <circle cx="180" cy="420" r="20" fill="url(#grayGradient)"/>
+  <circle cx="240" cy="420" r="20" fill="url(#grayGradient)"/>
+  <circle cx="300" cy="420" r="20" fill="url(#greenGradient)"/>
+  
+  <!-- Button Labels -->
+  <text x="120" y="247" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">C</text>
+  <text x="180" y="247" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">±</text>
+  <text x="240" y="247" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">%</text>
+  <text x="300" y="247" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">÷</text>
+  
+  <text x="120" y="307" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">7</text>
+  <text x="180" y="307" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">8</text>
+  <text x="240" y="307" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">9</text>
+  <text x="300" y="307" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">×</text>
+  
+  <text x="120" y="367" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">4</text>
+  <text x="180" y="367" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">5</text>
+  <text x="240" y="367" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">6</text>
+  <text x="300" y="367" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">-</text>
+  
+  <text x="120" y="427" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">1</text>
+  <text x="180" y="427" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">2</text>
+  <text x="240" y="427" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">3</text>
+  <text x="300" y="427" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">+</text>
+  
+  <!-- Pro Badge -->
+  <circle cx="400" cy="160" r="24" fill="url(#proGradient)"/>
+  <text x="400" y="168" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff">PRO</text>
+  
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#764ba2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f093fb;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="calcGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2c3e50;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#34495e;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00ff88;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00cc6a;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="screenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ecf0f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bdc3c7;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e74c3c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c0392b;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="grayGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#95a5a6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7f8c8d;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="orangeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f39c12;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e67e22;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00ff88;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00cc6a;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="proGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b6b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ee5a52;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg> 
