@@ -117,7 +117,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - canberkunlu8@gmail.com
 
 Project Link: [https://github.com/yourusername/smartcalc-pro](https://github.com/yourusername/smartcalc-pro)
 
