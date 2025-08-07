@@ -119,8 +119,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - canberkunlu8@gmail.com
 
-Project Link: [https://github.com/yourusername/smartcalc-pro](https://github.com/yourusername/smartcalc-pro)
 
----
 
 ⭐ If you like this project, please give it a star!
